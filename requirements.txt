@@ -2,3 +2,4 @@ keplergl
 pandas
 geopandas
 jupyterlab
+rtree
