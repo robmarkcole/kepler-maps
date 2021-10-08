@@ -1,0 +1,4 @@
+keplergl
+pandas
+geopandas
+jupyterlab
